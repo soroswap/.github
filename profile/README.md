@@ -16,6 +16,7 @@ Soroswap.Finance is live on **Stellar Mainnet**.
     - [See in SorobanExp](https://www.sorobanexp.com/blockchain/ct/contract/CAG5LRYQ5JVEUI5TEID72EYOVX44TTUJT5BQR2J6J77FH65PCCFAJDDH)
 
 Check the documentation in https://docs.soroswap.finance/
+
 Find the Audit Report by [OtterSec](https://osec.io/) in https://github.com/soroswap/core/blob/main/audits/2024-02-22_soroswap_ottersec_audit.pdf
 
 
