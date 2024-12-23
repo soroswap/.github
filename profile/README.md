@@ -1,7 +1,7 @@
-# Soroswap Protocol
+# Soroswap.Finance
 
-Open-source AMM protocol for providing liquidity and trading Stellar Assets in Soroban. With SDK and easy to use frontend.
-Soroswap.Finance is live on **Stellar Mainnet**.
+Open-source AMM protocol and AMM Aggregator on Soroban, Stellar's smart contract platform.
+With SDK and easy to use frontend, Soroswap.Finance is live on **Stellar Mainnet**.
 
 - Deployer Address: [`GAYPUMZFDKUEUJ4LPTHVXVG2GD5B6AV5GGLYDMSZXCSI4QILQKSY25JI`](https://stellar.expert/explorer/public/account/GAYPUMZFDKUEUJ4LPTHVXVG2GD5B6AV5GGLYDMSZXCSI4QILQKSY25JI)
 - SoroswapFactory: `CA4HEQTL2WPEUYKYKCDOHCDNIV4QHNJ7EL4J4NQ6VADP7SYHVRYZ7AW2`
@@ -17,7 +17,9 @@ Soroswap.Finance is live on **Stellar Mainnet**.
 
 Check the documentation in https://docs.soroswap.finance/
 
-Find the Audit Report by [OtterSec](https://osec.io/) in https://github.com/soroswap/core/blob/main/audits/2024-02-22_soroswap_ottersec_audit.pdf
+- Audit Reports:
+    -  By [OtterSec](https://osec.io/) in [this link](https://github.com/soroswap/core/blob/main/audits/2024-02-22_soroswap_ottersec_audit.pdf).
+    -  By [Runtime Verification](https://runtimeverification.com/) in [this link](https://github.com/soroswap/aggregator/blob/main/audits/2024-08-31_Soroswap_Aggregator_Audit_by_RuntimeVerification.pdf).
 
 
 Soroswap.Finance is developed by the **PaltaLabs 🥑** Team. Visit and contact us in https://paltalabs.io/
